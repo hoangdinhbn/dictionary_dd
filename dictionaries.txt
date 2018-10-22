@@ -1,0 +1,16 @@
+﻿﻿account	tài khoản
+hello	xin ch�o
+bussiness	doanh nghiệp
+command	ra lệnh
+contact	tiếp xúc
+happiness	niền vui
+importance	tầm quan trọng
+method	phương pháp
+perfect	hoàn hảo
+person	người
+problem	vấn  đề
+thanks	cảm ơn
+software	phần mền
+transform	biến đổi
+transport	vận chuyển
+window	cửa sổ
